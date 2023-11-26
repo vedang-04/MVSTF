@@ -33,6 +33,6 @@ For 1d CNNs
 <br>
 ![1dcnn_forecast](images/1dcnn_forecast.png)
 <br>
-More improvements in forecasting can be done after understanding better properties of the series related to a region (univariate) and the impact of other regions on the concerned region (multivariate). The top 10 teams were selected and my team was not one of them (unfortunately).
+More improvements in forecasting can be done after understanding better properties of the series related to a region (univariate) and the impact of other regions on the concerned region (multivariate). The top 10 teams were selected for the next round and my team was not one of them (unfortunately).
 <br>
 
