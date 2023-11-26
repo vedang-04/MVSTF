@@ -1,6 +1,6 @@
 # Multivariate Time Series Forecasting
 <br>
-Materials: [Presentation](https://drive.google.com/drive/folders/1C5JF7kF4GGvhP8WgrmfDuTvXI4DgX1nF?usp=sharing) 
+Materials: [Presentation](https://drive.google.com/drive/folders/1C5JF7kF4GGvhP8WgrmfDuTvXI4DgX1nF?usp=sharing/) 
 <br>
 This was a project created as a solution to the PS provided by TATA InfoCom. for the ML Hackathon conducted by Techfest, IIT B. <br>
 It is inspired by the concept of Multivariate time series forecasting wherein multiple variables will vary over time. Each variable depends not only on its past values but also has some dependency on other variables.<br>
